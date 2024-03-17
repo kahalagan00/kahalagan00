@@ -10,11 +10,13 @@
 
 ### Languages & Technical Skills 🖥️
 <!-- Languages -->
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus">
-
-
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%232B2728?style=for-the-badge&logo=javascript&logoColor=%23FFFF00">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus">
+<img alt="C" src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 <!-- Technologies -->
+<img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 
 <!--
