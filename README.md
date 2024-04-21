@@ -6,15 +6,14 @@
 </header>
 
 
-# Hi there, I am Jmar ✌️
+# Hi there, I am Joshmar ✌️
 
 * 🤖 I’m currently working as an Embedded Firmware Developer.
-* 🎨 I’m currently learning Full Stack Development.
+* 🎨 I’m currently learning Front-End Web Development.
 * 👯 I’m looking to collaborate on Web Applications with a large user base.
-* 🤔 I’m looking for help with learning more about Front-End and Back-End techniques and practices.
 * 💬 Ask me about what I'm currently working on and what I'm interested in.
 * 🤸🏻 My hobbies are Bodybuilding, Language learning, watching Anime, and playing video games.
-* 📫 How to reach me: joshmarinho11@gmail.com
+* 📫 My email: joshmarinho11@gmail.com
 
 ### Languages & Technical Skills 🖥️
 <!-- Languages -->
