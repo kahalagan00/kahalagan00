@@ -30,6 +30,7 @@
 <!-- Frameworks/Technologies -->
 <section id="frm">
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="SASS" src="https://img.shields.io/badge/sass-%23eee?style=for-the-badge&logo=sass">
   <img alt="Express" src="https://img.shields.io/badge/Express-%23e7e1da?style=for-the-badge&logo=express&logoColor=black">
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%23eeeeee?style=for-the-badge&logo=nodedotjs&logoColor=%23339933">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23d3d3d3?style=for-the-badge&logo=postgresql&logoColor=%234169E1">
