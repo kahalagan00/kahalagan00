@@ -10,9 +10,9 @@
 
 * 🤖 Previously worked as an Embedded Firmware Engineer.
 * 🎨 I’m currently learning and focusing on Full-Stack Web Development.
-* 👯 I’m looking to collaborate on Web Applications with a large user base.
+* 🧍🏻 I’m looking to collaborate on Web Applications with a large user base.
 * 💬 Ask me about what I'm currently working on and what I'm interested in.
-* 🤸🏻 My hobbies are learning Spanish, and playing Video Games.
+* 🎮 My hobbies are learning Spanish, and playing Video Games.
 * 📫 My email: joshmarinho11@gmail.com
 
 ### Languages & Technical Skills 🖥️
