@@ -8,7 +8,7 @@
 
 # Hi there, I am Joshmar ✌️
 
-* 🤖 Previously worked as an Embedded Firmware Developer.
+* 🤖 Previously worked as an Embedded Firmware Engineer.
 * 🎨 I’m currently learning and focusing on Full-Stack Web Development.
 * 👯 I’m looking to collaborate on Web Applications with a large user base.
 * 💬 Ask me about what I'm currently working on and what I'm interested in.
