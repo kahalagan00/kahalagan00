@@ -1,8 +1,11 @@
+<div align="center">
+  <img src="./void_zoom.gif" alt="ReadMe intro gif" style="width: 100%; height: auto;" />
+</div>
 <header>
 <!--   ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) -->
   <!-- Add some type of image here, preferably custom art displaying that you are a coder/full-stack-developer etc... --> 
   <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=1A6EDF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Aspiring+Full+Stack+Developer;Front-End+and+Back-End+%3A)" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=8041f7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Aspiring+Full+Stack+Developer;Front-End+and+Back-End+%3A)" alt="Typing SVG" />
   </a>
   </h1>
 </header>
