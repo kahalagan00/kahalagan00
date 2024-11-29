@@ -1,4 +1,5 @@
 <header>
+<!--   ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) -->
   <!-- Add some type of image here, preferably custom art displaying that you are a coder/full-stack-developer etc... --> 
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=1A6EDF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Aspiring+Full+Stack+Developer;Front-End+and+Back-End+%3A)" alt="Typing SVG" />
@@ -42,11 +43,18 @@
 <!-- Main Languages -->
 <section id="lang">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%232B2728?style=for-the-badge&logo=javascript&logoColor=%23FFFF00">
+  <!-- Put TypeScript Shield here in the future -->
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus">
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-%23F7DF1E?style=for-the-badge&logo=python&logoColor=black">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23bcbcbc?style=for-the-badge&logo=markdown&logoColor=%23000000">
 <br>
+
+<section id="gh_stats">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahalagan00&show_icons=true&locale=en&layout=compact" alt="kahalagan00" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahalagan00&show_icons=true&locale=en" alt="kahalagan00" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kahalagan00&" alt="kahalagan00" /></p>
+
 
 <!--
 **kahalagan00/kahalagan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
