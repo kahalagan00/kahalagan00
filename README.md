@@ -60,11 +60,20 @@
 <br>
 
 <section id="gh_stats">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahalagan00&show_icons=true&locale=en&layout=compact" alt="kahalagan00" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahalagan00&show_icons=true&locale=en" alt="kahalagan00" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kahalagan00&" alt="kahalagan00" /></p>
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahalagan00&show_icons=true&locale=en&layout=compact" alt="kahalagan00" /></p> -->
+<!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahalagan00&show_icons=true&locale=en" alt="kahalagan00" /></p> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kahalagan00's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kahalagan00&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&icon_color=FAB387" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kahalagan00's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kahalagan00&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&icon_color=FAB387&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kahalagan00's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kahalagan00&theme=catppuccin-mocha&hide_border=true"/>
+    </a>
+  </p>
 
-
+<br>
+  
 <!--
 **kahalagan00/kahalagan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
