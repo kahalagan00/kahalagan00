@@ -5,7 +5,7 @@
 <!--   ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) -->
   <!-- Add some type of image here, preferably custom art displaying that you are a coder/full-stack-developer etc... --> 
   <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=8041f7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Aspiring+Full+Stack+Developer;Front-End+and+Back-End+%3A)" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=8041f7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;Front-End+and+Back-End+%3A)" alt="Typing SVG" />
   </a>
   </h1>
 </header>
@@ -13,11 +13,11 @@
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqb2F1dHhndW44cWtlaXNtc2c5NDg3dWVoNmExODkzNTNqMW51ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 # Hi there, I am Joshmar ✌️
-* 🤖 Previously worked as an Embedded Firmware Engineer.
-* 🎨 I’m currently learning and focusing on Full-Stack Web Development.
+* 🤖 Previously worked as an Software Firmware Engineer.
+* 🎨 I’m currently learning Next.js and SSR.
 * 🧍🏻 I’m looking to collaborate on Web Applications with a large user base.
 * 💬 Ask me about what I'm currently working on and what I'm interested in.
-* 🎮 My hobbies are playing games and eating food from different cultures.
+* 🎮 My hobbies are playing video games and eating food from different cultures.
 * 📫 My email: joshmarinho11@gmail.com
 
   
@@ -29,8 +29,8 @@
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img alt="React Router" src="https://img.shields.io/badge/Router-000000?style=for-the-badge&logo=react-router&color=eeeeee">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white&color=purple">
-  <img alt="SASS" src="https://img.shields.io/badge/sass-%23eee?style=for-the-badge&logo=sass">
   <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=neonblue&color=CDF5FD">
+  <img alt="SASS" src="https://img.shields.io/badge/sass-%23eee?style=for-the-badge&logo=sass">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=css-modules&logoColor=black&color=eeeeee">
