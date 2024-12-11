@@ -26,37 +26,39 @@
 ### Front End
 <!-- Front End -->
 <section id="fe">
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="React Router" src="https://img.shields.io/badge/Router-000000?style=for-the-badge&logo=react-router&color=eeeeee">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white&color=purple">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=neonblue&color=CDF5FD">
-  <img alt="SASS" src="https://img.shields.io/badge/sass-%23eee?style=for-the-badge&logo=sass">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=css-modules&logoColor=black&color=eeeeee">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23e7f7fa?style=for-the-badge&logo=css3&logoColor=%231572B6">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23fce5cd?style=for-the-badge&logo=html5&logoColor=%23E34F26">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Pug-red?style=for-the-badge&logo=pug&logoColor=orange&color=eeeeee">
+  ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![React Router](https://img.shields.io/badge/React_Router-%23CA4245?style=for-the-badge&logo=react&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwind&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![CSS Modules](https://img.shields.io/badge/CSS_Modules-%23007bff?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Pug](https://img.shields.io/badge/Pug-%23A86454?style=for-the-badge&logo=pug&logoColor=white)
 <br>
 
 ### Back End
 <!-- Back End -->
 <section id="be">
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%23eeeeee?style=for-the-badge&logo=nodedotjs&logoColor=%23339933">
-  <img alt="Express" src="https://img.shields.io/badge/Express-%23e7e1da?style=for-the-badge&logo=express&logoColor=black">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23d3d3d3?style=for-the-badge&logo=postgresql&logoColor=%234169E1">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23d7eaab?style=for-the-badge&logo=mongodb&logoColor=%2347A248">
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 
 ### Main Languages
 <!-- Main Languages -->
 <section id="lang">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%232B2728?style=for-the-badge&logo=javascript&logoColor=%23FFFF00">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-red?style=for-the-badge&logo=typescript&logoColor=white&color=0A5EB0">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus">
-  <img alt="C" src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%23F7DF1E?style=for-the-badge&logo=python&logoColor=black">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23bcbcbc?style=for-the-badge&logo=markdown&logoColor=%23000000">
+  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+  ![Markdown](https://img.shields.io/badge/Markdown-007ACC?style=for-the-badge&logo=markdown&logoColor=white)
 <br>
 
 <br>
