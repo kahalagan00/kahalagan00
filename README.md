@@ -28,12 +28,11 @@
 <section id="fe">
   
   ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![React Router](https://img.shields.io/badge/React_Router-%23CA4245?style=for-the-badge&logo=react&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwind&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![CSS Modules](https://img.shields.io/badge/CSS_Modules-%23007bff?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS Modules](https://img.shields.io/badge/CSS_Modules-%23007bff?style=for-the-badge&logo=cssmodules&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Pug](https://img.shields.io/badge/Pug-%23A86454?style=for-the-badge&logo=pug&logoColor=white)
