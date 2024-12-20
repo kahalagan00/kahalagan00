@@ -28,6 +28,7 @@
 <section id="fe">
   
   ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
