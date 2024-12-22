@@ -14,7 +14,7 @@
 
 # Hi there, I am Joshmar ✌️
 * 🤖 Previously worked as an Software Firmware Engineer.
-* 🎨 I’m currently learning Next.js, Django and PostgreSQL
+* 📊 I’m currently learning Next.js, Django and PostgreSQL.
 * 🧍🏻 I’m looking to collaborate on Web Applications with a large user base.
 * 💬 Ask me about what I'm currently working on and what I'm interested in.
 * 🎮 My hobbies are playing video games and eating food from different cultures.
