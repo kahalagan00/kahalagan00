@@ -14,7 +14,7 @@
 
 # Hi there, I am Joshmar ✌️
 * 🤖 Previously worked as an Software Firmware Engineer.
-* 🎨 I’m currently learning Next.js and SSR.
+* 🎨 I’m currently learning Next.js, Django and PostgreSQL
 * 🧍🏻 I’m looking to collaborate on Web Applications with a large user base.
 * 💬 Ask me about what I'm currently working on and what I'm interested in.
 * 🎮 My hobbies are playing video games and eating food from different cultures.
@@ -46,6 +46,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 
