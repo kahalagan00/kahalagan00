@@ -10,7 +10,9 @@
   </h1>
 </header>
 
-<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqb2F1dHhndW44cWtlaXNtc2c5NDg3dWVoNmExODkzNTNqMW51ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+<!-- <div>
+  <img class="hackerboy" align="center" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqb2F1dHhndW44cWtlaXNtc2c5NDg3dWVoNmExODkzNTNqMW51ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"> 
+</div> -->
 
 # Hi there, I am Joshmar ✌️
 * 🤖 Previously worked as an Software Firmware Engineer.
