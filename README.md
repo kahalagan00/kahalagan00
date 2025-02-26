@@ -15,10 +15,10 @@
 </div> -->
 
 # Hi there, I am Joshmar ✌️
-* 📊 I’m currently learning Next.js, .NET, MSSQL and PostgreSQL.
-* 🧍🏻 I’m looking to collaborate on Web Applications with a large user base.
+* 📊 I’m currently learning Java, Spring, C#, .NET, and more SQL.
+* 🧍🏻 I’m looking to collaborate on Applications with a large user base.
 * 💬 Ask me about what I'm currently working on and what I'm interested in.
-* 🎮 My hobbies are doing calisthenics, playing video games, and trying foods from other cultures (regardless of aesthetics).
+* 🎮 My hobbies are doing calisthenics, playing video games, and trying foods from other cultures (regardless of how it looks haha).
 * 📫 My email: joshmarinho11@gmail.com
 
   
@@ -32,22 +32,17 @@
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![CSS Modules](https://img.shields.io/badge/CSS_Modules-%23007bff?style=for-the-badge&logo=cssmodules&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Pug](https://img.shields.io/badge/Pug-%23A86454?style=for-the-badge&logo=pug&logoColor=white)
 <br>
 
 ### Back End
 <!-- Back End -->
 <section id="be">
   
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.net&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 
@@ -55,12 +50,12 @@
 <!-- Main Languages -->
 <section id="lang">
   
+  ![Java](https://img.shields.io/badge/Java-%23B07219?style=for-the-badge&logo=coffeescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![Markdown](https://img.shields.io/badge/Markdown-007ACC?style=for-the-badge&logo=markdown&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=counterstrike&logoColor=white) 
+  
 <br>
 
 <br>
