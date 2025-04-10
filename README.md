@@ -15,7 +15,7 @@
 </div> -->
 
 # Hi there, I am Joshmar ✌️
-* 📊 I’m currently learning Java, Spring and SQL.
+* 📊 I’m currently learning Java, Spring, SQL, Kotlin, and Jetpack Compose.
 * 🧍🏻 I’m looking to collaborate on Applications with a large user base.
 * 💬 Ask me about what I'm currently working on and what I'm interested in.
 * 🎮 My hobbies are doing calisthenics, playing video games, and trying foods from other cultures (regardless of how it looks haha).
