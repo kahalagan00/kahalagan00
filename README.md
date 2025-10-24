@@ -16,12 +16,8 @@
 
 # Hi there, I am Joshmar ✌️
 * 🎓 I'm currently pursuing my Master of Science in Computer Science
-* 📊 I’m currently dabbling on Java, Spring, SQL, Android Kotlin, Python, and AI/ML.
 * 🧍🏻 I’m looking to collaborate on applications incorporating big usage of data or AI/ML tools.
-* 💬 Ask me about what I'm currently working on and what I'm interested in.
-* 🎮 My hobbies are doing calisthenics, playing video games, and trying foods from other cultures (regardless of how it looks haha).
 * 📫 My email: joshmarinho11@gmail.com
-
   
 
 ## Technical Skills 🖥️
