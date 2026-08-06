@@ -22,7 +22,8 @@
 ### Front End
 <!-- Front End -->
 <section id="fe">
-  
+
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&logo=Flutter&logoColor=white)
   [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
   [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
@@ -64,9 +65,7 @@
 <section id="ai">
 
   [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
-  [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
   [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
-  [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
 ### Languages
 <!-- Languages -->
@@ -77,6 +76,7 @@
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&logo=dart&logoColor=white)
   
 <br>
 
