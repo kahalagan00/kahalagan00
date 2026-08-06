@@ -15,7 +15,7 @@
 </div> -->
 
 # Hi there, I am Joshmar ✌️
-* 🧍🏻 Fullstack, AI/ML, DS/DE
+* 🧍🏻 Fullstack, Mobile, AI/ML, DS/DE
 * 📫 My email: joshmarinho11@gmail.com
 
 ## Technical Skills 🖥️
