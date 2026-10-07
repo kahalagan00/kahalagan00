@@ -81,8 +81,6 @@
 <section id="gh_stats">
 <!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahalagan00&show_icons=true&locale=en&layout=compact" alt="kahalagan00" /></p> -->
 <!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahalagan00&show_icons=true&locale=en" alt="kahalagan00" /></p> -->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kahalagan00's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kahalagan00&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&icon_color=FAB387" height="192px"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kahalagan00's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kahalagan00&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&icon_color=FAB387&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
     <br/>
     <br/>
